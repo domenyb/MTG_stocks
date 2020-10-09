@@ -1,0 +1,13 @@
+name,isFoil,Qtty,Bought_price,Current_price,Bought_date
+Fabled Passage,False,1,16.2,15.24,2020-03-15
+Hallowed Fountain,True,1,20.5,20.5,2020-03-17
+Questing Beast,False,1,10.21,9.97,2020-03-17
+"Golos, Tireless Pilgrim",True,1,9.0,9.31,2020-03-19
+"Chandra, Awakened Inferno",False,1,10.0,9.98,2020-03-19
+"Vivien, Arkbow Ranger",False,1,8.87,9.96,2020-03-19
+Embercleave,False,1,14.41,13.99,2020-03-19
+Breeding Pool,False,1,20.7,20.7,2020-03-21
+"Vivien, Arkbow Ranger",True,1,11.44,11.44,2020-03-21
+Arboreal Grazer,True,1,8.4,8.4,2020-03-21
+Brazen Borrower,False,1,21.99,21.99,2020-03-21
+"Korvold, Fae-Cursed King",False,1,7.69,7.69,2020-03-21

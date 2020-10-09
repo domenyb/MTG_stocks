@@ -1,0 +1,13 @@
+name,isFoil,Qtty,Bought_price,Current_price,Bought_date
+Godless Shrine,False,1,7.5,7.15,2020-03-03
+Knight of the Ebon Legion,True,1,8.17,7.36,2020-03-03
+Once Upon a Time,True,1,7.99,7.99,2020-03-03
+Blood Crypt,False,1,12.99,12.98,2020-03-05
+Field of the Dead,True,1,13.25,13.25,2020-03-05
+"Golos, Tireless Pilgrim",True,1,9.0,9.0,2020-03-05
+Leyline of the Void,False,1,9.0,8.49,2020-03-05
+"Oko, Thief of Crowns",False,1,11.9,10.99,2020-03-05
+Blood Crypt,True,1,17.98,17.98,2020-03-06
+Divine Visitation,False,1,9.23,9.23,2020-03-06
+The Great Henge,True,1,19.03,19.03,2020-03-06
+Fabled Passage,False,1,14.49,14.49,2020-03-06
