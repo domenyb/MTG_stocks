@@ -1,0 +1,8 @@
+name,isFoil,Qtty,Bought_price,Current_price,Bought_date
+Divine Visitation,True,1,12.5,12.5,2020-03-05
+Once Upon a Time,True,1,7.99,7.97,2020-03-05
+Blood Crypt,True,1,17.98,17.98,2020-03-08
+Breeding Pool,True,1,36.69,36.69,2020-03-09
+Temple Garden,True,1,12.99,12.99,2020-03-09
+Steam Vents,False,1,12.48,12.48,2020-03-09
+"Teferi, Time Raveler",False,1,18.45,18.45,2020-03-09

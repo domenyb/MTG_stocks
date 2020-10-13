@@ -1,0 +1,11 @@
+name,isFoil,Qtty,Bought_price,Current_price,Bought_date
+"Ajani, Strength of the Pride",True,1,14.5,14.43,2020-03-29
+Cavalier of Night,True,1,7.19,6.95,2020-03-29
+Cavalier of Thorns,True,1,10.0,9.99,2020-03-29
+"Chandra, Awakened Inferno",True,1,20.88,20.43,2020-03-29
+Field of the Dead,True,1,10.49,10.49,2020-03-29
+"Yarok, the Desecrated",True,1,16.37,16.37,2020-03-29
+"Chandra, Awakened Inferno",False,1,8.38,5.64,2020-03-29
+"Korvold, Fae-Cursed King",False,1,7.27,5.24,2020-03-29
+Divine Visitation,False,1,9.61,9.61,2020-04-01
+"Kroxa, Titan of Death's Hunger (Extended Art)",True,1,87.99,87.99,2020-04-01

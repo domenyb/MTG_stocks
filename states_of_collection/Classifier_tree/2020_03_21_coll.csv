@@ -1,0 +1,8 @@
+name,isFoil,Qtty,Bought_price,Current_price,Bought_date
+Hallowed Fountain,True,1,20.5,20.5,2020-03-17
+Blood Crypt,False,1,11.0,10.72,2020-03-19
+Hydroid Krasis,False,1,17.59,17.49,2020-03-19
+Watery Grave,True,1,20.37,20.37,2020-03-19
+"Jace, Wielder of Mysteries",True,1,10.02,9.82,2020-03-19
+Embercleave,False,1,14.41,13.99,2020-03-19
+"Vivien, Arkbow Ranger",True,1,11.44,11.44,2020-03-21
